@@ -11,7 +11,7 @@ Repository học SAP CAP (Cloud Application Programming Model). Nội dung gồm
 ## Cấu trúc quan trọng
 
 ```
-learning/roadmap.md     # Lộ trình học chính — đọc trước khi làm gì
+learning/roadmap.md     # Lộ trình học chính — đọc đầu tiên
 learning/notes/         # Ghi chú từng chủ đề, đặt tên: 01-cds-basics.md
 learning/cheatsheets/   # Quick reference, ngắn gọn
 learning/exercises/     # Mini CDS exercises, mỗi bài một subfolder
